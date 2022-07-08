@@ -10,3 +10,11 @@ To play CLI-Minesweeper on Windows, just double-click the executable jar file
 
 ### Linux
 To play CLI-Minesweeper on a Linux distribution, execute following command: `java -jar CLI-Minesweeper-x.x.jar`
+
+## How to play
+Use arrow keys to select a field
+Use Enter key on an empty field to uncover it
+Use Enter key on a field next to a flag to chord
+Use space key on an empty field to flag it
+
+Uncover all fields and flag all bombs to win
